@@ -26,12 +26,16 @@
   ## Contributors
   chris-Mcleod2
   
-  ## Test
-  na
+  ## Walkthrough Video
+  
+
+https://user-images.githubusercontent.com/91762149/156965783-bd0667c5-30a6-4c48-af39-fb2dcec97de7.mp4
+
+
 
 
   ## Contact
-  Email: undefined   
+  Email: mcleod32@live.com   
   Github: https://github.com/chris_mcleod2 
 
 
